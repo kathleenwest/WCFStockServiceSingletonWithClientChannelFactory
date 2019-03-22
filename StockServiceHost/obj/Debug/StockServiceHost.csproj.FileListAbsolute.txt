@@ -1,0 +1,13 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceHost.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceHost.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceHost.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\SharedLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\bin\Debug\StockServiceLib.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\obj\Debug\StockServiceHost.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\obj\Debug\StockServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\obj\Debug\StockServiceHost.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\obj\Debug\StockServiceHost.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceHost\obj\Debug\StockServiceHost.pdb

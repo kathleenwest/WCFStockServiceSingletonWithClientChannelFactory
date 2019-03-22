@@ -1,0 +1,20 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\bin\Debug\StockServiceLib.dll.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\bin\Debug\StockServiceLib.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\bin\Debug\StockServiceLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\bin\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\bin\Debug\SharedLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\obj\Debug\StockServiceLib.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab3\Lab3\StockServiceLib\obj\Debug\StockServiceLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\bin\Debug\StockServiceLib.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\bin\Debug\StockServiceLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\bin\Debug\StockServiceLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\bin\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\bin\Debug\SharedLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\obj\Debug\StockServiceLib.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\obj\Debug\StockServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\obj\Debug\StockServiceLib.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\obj\Debug\StockServiceLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockServiceLib\obj\Debug\StockServiceLib.pdb

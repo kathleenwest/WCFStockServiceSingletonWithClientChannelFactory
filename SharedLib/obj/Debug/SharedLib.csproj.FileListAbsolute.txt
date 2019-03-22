@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\bin\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\bin\Debug\SharedLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\obj\Debug\SharedLib.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\obj\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\SharedLib\obj\Debug\SharedLib.pdb

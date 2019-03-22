@@ -1,0 +1,12 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\StockClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\StockClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\StockClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\SharedLib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\Utilities.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\SharedLib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\bin\Debug\Utilities.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\obj\Debug\StockClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\obj\Debug\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\obj\Debug\StockClient.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\obj\Debug\StockClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFStockServiceSingletonWithClientChannelFactory\StockClient\obj\Debug\StockClient.pdb
